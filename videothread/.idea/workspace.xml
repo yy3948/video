@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c01ca263-0cd7-4737-8a71-586765a06adb" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoRecord.py" beforeDir="false" afterPath="$PROJECT_DIR$/videoRecord.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" module-name="video" is-module-sdk="true">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="video" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/anaconda3/Lib/os.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/videoRecord.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cmxio2gDQGHUCx1ZB8bcKJRNTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/pycharmproject/videothread_back" />
+    <property name="settings.editor.selected.configurable" value="FeaturesTrainerSettingsPanel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="video" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="video" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.videoRecord">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cjluy\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cjluy\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keysafe (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keysafe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opencam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cjluy\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cjluy\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoRecord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoRecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.keysafe (1)" />
+      <item itemvalue="Python.videoRecord" />
+      <item itemvalue="Python.ui" />
+      <item itemvalue="Python.cla" />
+      <item itemvalue="Python.opencam" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.videoRecord" />
+        <item itemvalue="Python.opencam" />
+        <item itemvalue="Python.cla" />
+        <item itemvalue="Python.ui" />
+        <item itemvalue="Python.keysafe (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c01ca263-0cd7-4737-8a71-586765a06adb" name="变更" comment="" />
+      <created>1659421691922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659421691922</updated>
+      <workItem from="1659421693029" duration="1951000" />
+      <workItem from="1659423691671" duration="10448000" />
+      <workItem from="1659490174333" duration="63000" />
+      <workItem from="1659491443704" duration="14577000" />
+      <workItem from="1659575605959" duration="13658000" />
+      <workItem from="1659662383583" duration="26731000" />
+      <workItem from="1659863014965" duration="501000" />
+      <workItem from="1659863535605" duration="1118000" />
+      <workItem from="1659939113805" duration="106000" />
+      <workItem from="1659939237674" duration="364000" />
+      <workItem from="1659939618527" duration="41000" />
+      <workItem from="1659939672802" duration="7719000" />
+      <workItem from="1660009809700" duration="20388000" />
+      <workItem from="1660094013704" duration="17087000" />
+      <workItem from="1660180710763" duration="18367000" />
+      <workItem from="1660266812785" duration="5424000" />
+      <workItem from="1660284258435" duration="874000" />
+      <workItem from="1660285478220" duration="12884000" />
+      <workItem from="1660352663644" duration="5405000" />
+      <workItem from="1660378027282" duration="4226000" />
+      <workItem from="1660465426673" duration="4001000" />
+      <workItem from="1660526585922" duration="77000" />
+      <workItem from="1660527444096" duration="4309000" />
+      <workItem from="1660538268606" duration="684000" />
+      <workItem from="1660539278473" duration="17365000" />
+      <workItem from="1660569471265" duration="131000" />
+      <workItem from="1660612661438" duration="4002000" />
+      <workItem from="1661396126404" duration="52000" />
+      <workItem from="1661396331023" duration="539000" />
+      <workItem from="1661502493975" duration="9000" />
+      <workItem from="1661736317070" duration="18058000" />
+      <workItem from="1661822729620" duration="17650000" />
+      <workItem from="1661908474376" duration="16219000" />
+      <workItem from="1661948902807" duration="948000" />
+      <workItem from="1662083179652" duration="3311000" />
+      <workItem from="1662513805144" duration="528000" />
+      <workItem from="1662514364369" duration="116000" />
+      <workItem from="1663042287265" duration="113000" />
+      <workItem from="1665024362489" duration="71000" />
+      <workItem from="1666008093105" duration="209000" />
+      <workItem from="1666008512369" duration="210000" />
+      <workItem from="1666008868502" duration="285000" />
+      <workItem from="1666009251466" duration="5697000" />
+      <workItem from="1666077973782" duration="10565000" />
+      <workItem from="1666104022912" duration="2066000" />
+      <workItem from="1666163271325" duration="596000" />
+      <workItem from="1666167981129" duration="13000" />
+      <workItem from="1666876607205" duration="793000" />
+      <workItem from="1667222827630" duration="3675000" />
+      <workItem from="1667278814845" duration="6401000" />
+      <workItem from="1667314514244" duration="2627000" />
+      <workItem from="1667370374689" duration="10798000" />
+      <workItem from="1667391798972" duration="8792000" />
+      <workItem from="1667443891710" duration="6000" />
+      <workItem from="1667460950363" duration="12675000" />
+      <workItem from="1667490547744" duration="1096000" />
+      <workItem from="1667547921074" duration="2744000" />
+      <workItem from="1667799243698" duration="2339000" />
+      <workItem from="1667809079806" duration="3026000" />
+      <workItem from="1667888194683" duration="2603000" />
+      <workItem from="1667910760350" duration="8834000" />
+      <workItem from="1667982514042" duration="1930000" />
+      <workItem from="1667988549635" duration="3697000" />
+      <workItem from="1668080465030" duration="2158000" />
+      <workItem from="1668083831481" duration="1516000" />
+      <workItem from="1668157724178" duration="7478000" />
+      <workItem from="1668181365801" duration="619000" />
+      <workItem from="1668218246244" duration="1054000" />
+      <workItem from="1668343212435" duration="6415000" />
+      <workItem from="1668406226065" duration="8159000" />
+      <workItem from="1668481330380" duration="1060000" />
+      <workItem from="1668493399384" duration="7983000" />
+      <workItem from="1668571263776" duration="937000" />
+      <workItem from="1668666730673" duration="4522000" />
+      <workItem from="1671117107179" duration="1197000" />
+      <workItem from="1671178082501" duration="3099000" />
+      <workItem from="1671189616612" duration="3632000" />
+      <workItem from="1671437050430" duration="12058000" />
+      <workItem from="1671459087663" duration="1789000" />
+      <workItem from="1671710634851" duration="5937000" />
+      <workItem from="1671957042733" duration="1202000" />
+      <workItem from="1671963967368" duration="78000" />
+      <workItem from="1671967182501" duration="625000" />
+      <workItem from="1672051084400" duration="12983000" />
+      <workItem from="1672136540844" duration="16310000" />
+      <workItem from="1672160514536" duration="812000" />
+      <workItem from="1672228676367" duration="14558000" />
+      <workItem from="1672314173972" duration="10426000" />
+      <workItem from="1672394111143" duration="18438000" />
+      <workItem from="1672585654692" duration="2255000" />
+      <workItem from="1672669550687" duration="7958000" />
+      <workItem from="1672743991023" duration="8516000" />
+      <workItem from="1672834868526" duration="7122000" />
+      <workItem from="1672917455232" duration="13591000" />
+      <workItem from="1672996605668" duration="19460000" />
+      <workItem from="1673095321049" duration="893000" />
+      <workItem from="1673442392433" duration="23000" />
+      <workItem from="1673442460626" duration="132000" />
+      <workItem from="1673514171472" duration="2198000" />
+      <workItem from="1676614185364" duration="4755000" />
+      <workItem from="1676988575091" duration="877000" />
+      <workItem from="1677032338797" duration="169000" />
+      <workItem from="1677032557442" duration="107000" />
+      <workItem from="1677048434967" duration="11050000" />
+      <workItem from="1677152575935" duration="1387000" />
+      <workItem from="1678108970693" duration="1466000" />
+      <workItem from="1678156644520" duration="802000" />
+      <workItem from="1678201144771" duration="16000" />
+      <workItem from="1678932599525" duration="3713000" />
+      <workItem from="1679242384066" duration="616000" />
+      <workItem from="1679299550775" duration="5866000" />
+      <workItem from="1679406841597" duration="2937000" />
+      <workItem from="1679581769346" duration="2386000" />
+      <workItem from="1679903720405" duration="1200000" />
+      <workItem from="1682430414102" duration="988000" />
+      <workItem from="1683042689959" duration="41000" />
+      <workItem from="1683043307614" duration="140000" />
+      <workItem from="1683106591811" duration="497000" />
+      <workItem from="1683108603476" duration="332000" />
+      <workItem from="1683109813080" duration="75000" />
+      <workItem from="1683127433057" duration="1658000" />
+      <workItem from="1683200793221" duration="1491000" />
+      <workItem from="1683432439259" duration="1673000" />
+      <workItem from="1683451136558" duration="1273000" />
+      <workItem from="1683467047130" duration="1808000" />
+      <workItem from="1683474196964" duration="1727000" />
+      <workItem from="1683532300820" duration="366000" />
+      <workItem from="1683532889589" duration="4272000" />
+      <workItem from="1683553461368" duration="3023000" />
+      <workItem from="1683697255889" duration="5259000" />
+      <workItem from="1683791144751" duration="6251000" />
+      <workItem from="1683976913442" duration="343000" />
+      <workItem from="1686125904633" duration="89000" />
+      <workItem from="1686209105161" duration="100000" />
+      <workItem from="1687159233772" duration="269000" />
+      <workItem from="1687335342622" duration="580000" />
+      <workItem from="1687336504501" duration="758000" />
+      <workItem from="1687342637701" duration="74000" />
+      <workItem from="1687342837581" duration="695000" />
+      <workItem from="1687345851068" duration="53000" />
+      <workItem from="1687345961834" duration="5666000" />
+      <workItem from="1687416639295" duration="4039000" />
+      <workItem from="1687488000968" duration="1747000" />
+      <workItem from="1688399173909" duration="83000" />
+      <workItem from="1688654411753" duration="2199000" />
+      <workItem from="1688723787757" duration="842000" />
+      <workItem from="1690980377240" duration="42000" />
+      <workItem from="1691136008506" duration="1972000" />
+      <workItem from="1691138677829" duration="146000" />
+      <workItem from="1691223295366" duration="1195000" />
+      <workItem from="1691497345559" duration="7000" />
+      <workItem from="1691497499667" duration="289000" />
+      <workItem from="1691497919614" duration="78000" />
+      <workItem from="1697204194613" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sm2test.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/Lib/site-packages/pysmx/SM2/_SM2.py</url>
+          <line>401</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/Lib/site-packages/pysmx/SM2/_SM2.py</url>
+          <line>399</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/videoReadFrameb.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sm2test.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="camera01" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$local.coverage" NAME="local 覆盖结果" MODIFIED="1668426062500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$sm2test.coverage" NAME="sm2test 覆盖结果" MODIFIED="1672240864210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$catch.coverage" NAME="catch 覆盖结果" MODIFIED="1672934031275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$bugtest.coverage" NAME="bugtest 覆盖结果" MODIFIED="1668669584162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencam_py$videoRecord.coverage" NAME="videoRecord 覆盖结果" MODIFIED="1691497650733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$localtest.coverage" NAME="localtest 覆盖结果" MODIFIED="1677066963667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$verify.coverage" NAME="verify 覆盖结果" MODIFIED="1673026550515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sm2test_py$verify.coverage" NAME="verify 覆盖结果" MODIFIED="1673516709173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$imagetest.coverage" NAME="imagetest 覆盖结果" MODIFIED="1679305437467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sm2test_py$QRcode.coverage" NAME="QRcode 覆盖结果" MODIFIED="1677032446200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$cla.coverage" NAME="cla 覆盖结果" MODIFIED="1688655165603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sm2test_py$videoRecord.coverage" NAME="videoRecord 覆盖结果" MODIFIED="1677032607210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$Beating_heart.coverage" NAME="Beating_heart 覆盖结果" MODIFIED="1672063367459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../heart/Beating_heart-main" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$NPCR_UACI.coverage" NAME="NPCR&amp;UACI 覆盖结果" MODIFIED="1683710384807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$videoRecord.coverage" NAME="videoRecord 覆盖结果" MODIFIED="1673095359433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$ui.coverage" NAME="ui 覆盖结果" MODIFIED="1687354370189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$.coverage" NAME=" 覆盖结果" MODIFIED="1661761762150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$comparsion.coverage" NAME="comparsion 覆盖结果" MODIFIED="1683558202858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/video$SM3.coverage" NAME="SM3 覆盖结果" MODIFIED="1659605091431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$ctypetest.coverage" NAME="ctypetest 覆盖结果" MODIFIED="1672141769788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_0_29_py$videoRecord_0_29.coverage" NAME="videoRecord 0.29 覆盖结果" MODIFIED="1668671087249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/videoRecord_py$videoRecord.coverage" NAME="videoRecord 覆盖结果" MODIFIED="1688737295790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencam_py$opencam.coverage" NAME="opencam 覆盖结果" MODIFIED="1691497614788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/video$tools.coverage" NAME="tools 覆盖结果" MODIFIED="1659432662948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/video$videoRecord_0_29.coverage" NAME="videoRecord 0.29 覆盖结果" MODIFIED="1659703943149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
